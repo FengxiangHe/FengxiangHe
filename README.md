@@ -4,7 +4,7 @@ I am a lecturer at the School of Informatics, University of Edinburgh, working o
 
 My home page: [https://fengxianghe.github.io/](https://fengxianghe.github.io/)
 
-Google Scholar profile: [https://scholar.google.com/citations?&user=QSx-Yu0AAAAJ](https://scholar.google.com/citations?&user=QSx-Yu0AAAAJ)
+Google Scholar: [https://scholar.google.com/citations?&user=QSx-Yu0AAAAJ](https://scholar.google.com/citations?&user=QSx-Yu0AAAAJ)
 
 <!--
 **FengxiangHe/FengxiangHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
