@@ -6,6 +6,8 @@ My home page: [https://fengxianghe.github.io/](https://fengxianghe.github.io/)
 
 Google Scholar: [https://scholar.google.com/citations?&user=QSx-Yu0AAAAJ](https://scholar.google.com/citations?&user=QSx-Yu0AAAAJ)
 
+EVIE GitHub: [https://github.com/eviehub](https://github.com/eviehub)
+
 <!--
 **FengxiangHe/FengxiangHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
